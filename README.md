@@ -1,10 +1,7 @@
 # Proyecto: Fundamentos de Node.js 🚀
 **Curso:** Desarrollo Web Backend  
 **Profesora:** Ana  
-**Estudiante:** [Tu Nombre y Apellido]  
-**Fecha:** [Fecha de Entrega]  
 
----
 
 ## 📝 Descripción del Proyecto
 Este repositorio contiene los laboratorios y prácticas desarrollados para la asignatura, enfocados en comprender el funcionamiento de **Node.js** como entorno de ejecución para JavaScript en el servidor y el diseño de APIs funcionales.
